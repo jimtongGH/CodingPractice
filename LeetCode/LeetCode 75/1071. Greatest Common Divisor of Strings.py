@@ -18,6 +18,9 @@ def gcdOfStrings(str1: str, str2: str) -> str:
         return ""
 
 
+# not finished!!!!!!!!
+
+
 class Solution(object):
     str1 = input("Enter str1: ")
     str2 = input("Enter str2: ")
